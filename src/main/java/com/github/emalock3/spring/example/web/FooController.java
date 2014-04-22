@@ -1,6 +1,5 @@
 package com.github.emalock3.spring.example.web;
 
-import com.github.emalock3.spring.example.service.FooConfiguration;
 import com.github.emalock3.spring.example.service.FooService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;
